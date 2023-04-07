@@ -1,1 +1,8 @@
-In the scope of COMP 551 machine learning course.
+![page1](writeup(1)-1.png)
+![page2](writeup(1)-2.png)
+![page3](writeup(1)-3.png)
+![page4](writeup(1)-4.png)
+![page5](writeup(1)-5.png)
+![page6](writeup(1)-6.png)
+![page7](writeup(1)-7.png)
+![page8](writeup(1)-8.png)
